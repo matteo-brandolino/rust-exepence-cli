@@ -1,0 +1,6 @@
+/target
+.history
+done/
+in_progress/
+categories.txt
+Cargo.lock
